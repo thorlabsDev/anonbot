@@ -13,7 +13,6 @@ AnonBot is a Discord bot designed to facilitate anonymous message forwarding and
 
 - Docker and Docker Compose.
 - A Discord Bot Token.
-- 
 
 ## Setup
 
