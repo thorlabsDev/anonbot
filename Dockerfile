@@ -11,7 +11,7 @@ COPY . .
 RUN pip install --no-cache-dir -r requirements.txt
 
 # Expose any ports the app might run on
-EXPOSE 80
+EXPOSE 81
 
 # Run bot.py when the container launches
 CMD ["python3", "bot.py"]
