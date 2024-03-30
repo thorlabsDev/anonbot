@@ -5,6 +5,6 @@ services:
     build: .
     volumes:
       - .:/usr/src/app
-      - /usr/src/app/message_log.txt
+      - ./message_log.txt:/usr/src/app/message_log.txt
     env_file:
       - .env
