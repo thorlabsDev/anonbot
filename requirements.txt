@@ -9,7 +9,7 @@ future==0.18.3
 idna==3.6
 imageio-ffmpeg==0.4.9
 multidict==6.0.4
-numpy==1.26.3
+numpy==1.24.4
 py-cord==2.4.1
 python-dotenv==1.0.0
 yarl==1.9.4
